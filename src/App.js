@@ -25,7 +25,7 @@ export default function App() {
               <li><a href="index.html" className="block p-2 text-lg hover:bg-gray-200">Inicio</a></li>
               <li><a href="MUJER1.html" className="block p-2 text-lg hover:bg-gray-200">Damas</a></li>
               <li><a href="HOMBRE1.html" className="block p-2 text-lg hover:bg-gray-200">Varones</a></li>
-              <li><a href="INFANTIL.html" className="block p-2 text-lg hover:bg-gray-200">Infantil</a></li>
+              <li><a href="INFANTIL.html" className="block p-2 text-lg hover:bg-gray-200">Niños</a></li>
             </ul>
           </nav>
         </div>
