@@ -13,7 +13,7 @@ export default function App() {
   return (
     <div className="relative min-h-screen bg-gray-100 p-4">
       <header className="bg-blue-700 text-white p-4 flex justify-between items-center">
-        <h1 className="text-xl font-bold">LIBRERIA MHAKI TIENDA ONLINE</h1>
+        <h1 className="text-xl font-bold">LIBRERIA MHAKI</h1>
         <button onClick={() => setMenuOpen(!menuOpen)} className="p-2 bg-blue-500 rounded">☰ Menú</button>
       </header>
 
